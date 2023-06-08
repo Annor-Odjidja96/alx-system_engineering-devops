@@ -1,3 +1,4 @@
 #!/bin/bash
-rm my_first_directory/tmp
+rm /tmpmy_first_directory
+
 
